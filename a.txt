@@ -1,0 +1,5 @@
+https://medium.com/@thushenarriyam/socket-io-connection-on-android-kotlin-to-node-js-server-71b218c160c9
+https://socket.io/blog/native-socket-io-and-android/
+https://socket.io/docs/v2/
+https://github.com/miguelgrinberg/python-socketio
+https://forum.djangoproject.com/t/how-to-use-socket-io-to-send-messages-from-views-py/19189
